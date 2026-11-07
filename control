@@ -1,0 +1,9 @@
+Package: com.example.hapticicons
+Name: HapticIcons
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Haptic feedback when you touch home screen icons.
+Maintainer: you
+Author: you
+Section: Tweaks
